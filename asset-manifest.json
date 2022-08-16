@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CustomConsole/static/css/main.e6c13ad2.css",
+    "main.js": "/CustomConsole/static/js/main.7ed8488c.js",
+    "index.html": "/CustomConsole/index.html",
+    "main.e6c13ad2.css.map": "/CustomConsole/static/css/main.e6c13ad2.css.map",
+    "main.7ed8488c.js.map": "/CustomConsole/static/js/main.7ed8488c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7ed8488c.js"
+  ]
+}
